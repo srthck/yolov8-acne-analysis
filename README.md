@@ -170,3 +170,7 @@ This system is built for **educational and research purposes only**. It does not
 | Deep learning backend | PyTorch 2.0+ |
 | Image processing | OpenCV |
 | UI | Streamlit |
+
+## Demo
+
+![Demo](docs/screenshots/demo.png)
