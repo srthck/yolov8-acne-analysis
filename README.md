@@ -171,6 +171,12 @@ This system is built for **educational and research purposes only**. It does not
 | Image processing | OpenCV |
 | UI | Streamlit |
 
+## Live Demo
+
+Try the deployed Streamlit application here:
+
+👉 https://yolov8-acne-analysis-4tnazstazkifhcwsfxwrrx.streamlit.app/
+
 ## Demo
 
 ![Demo](docs/screenshots/demo.png)
